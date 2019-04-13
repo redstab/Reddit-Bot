@@ -1,1 +1,1 @@
-# Reddit-Upvote-Bot
+# Reddit Bot
